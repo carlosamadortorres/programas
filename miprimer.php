@@ -7,7 +7,7 @@
    <body>
        <p> A UN PASO DE CONVERTIRME EN HENRY</p>
 
-       <?php echo 'Hola mundo tomando en cuanta que Soy novato';
+       <?php echo 'Hola mundo tomando en cuenta que Soy novato';
 
              echo 'Espero que lo haga mejor';
        ?>
